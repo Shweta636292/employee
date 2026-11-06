@@ -1,9 +1,9 @@
 package employee
 class Employee{
-    public static void(String,args[]){
+    public static void(String[],args){
         int employee id=2345;
         char employee name="shweta";
-        int phoneno=3456287934;
+        int phoneno="3456287934";
 
     }
     System.out.println("employee name+",shweta);
